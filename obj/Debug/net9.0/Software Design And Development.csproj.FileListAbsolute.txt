@@ -1,0 +1,15 @@
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/bin/Debug/net9.0/Software Design And Development
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/bin/Debug/net9.0/Software Design And Development.deps.json
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/bin/Debug/net9.0/Software Design And Development.runtimeconfig.json
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/bin/Debug/net9.0/Software Design And Development.dll
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/bin/Debug/net9.0/Software Design And Development.pdb
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.AssemblyInfoInputs.cache
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.AssemblyInfo.cs
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.csproj.CoreCompileInputs.cache
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.sourcelink.json
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.dll
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/refint/Software Design And Development.dll
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.pdb
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/Software Design And Development.genruntimeconfig.cache
+/Users/alejandroalonso/Desktop/Universidad/Year1 Semester2/FINAL ASSESMENTS/TemporaryPro/obj/Debug/net9.0/ref/Software Design And Development.dll
